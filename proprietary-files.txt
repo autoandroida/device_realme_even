@@ -1,0 +1,74 @@
+
+# Audio
+
+# Bluetooth-AptX
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
+
+# Camera
+
+# DRM
+
+# Display-Hardware
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Lights
+product/vendor_overlay/bin/hw/android.hardware.lights-service.mediatek
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# rootdir
+
+# Misc
+-system_ext/app/WAPPushManager/WAPPushManager.apk
+system_ext/etc/compatconfig/settings-platform-compat-config.xml
+system_ext/etc/default-permissions/default_permissions_com.android.wallpaper.xml
+system_ext/etc/group
+system_ext/etc/permissions/com.android.carrierconfig.xml
+system_ext/etc/permissions/com.android.emergency.xml
+system_ext/etc/permissions/com.android.launcher3.xml
+system_ext/etc/permissions/com.android.settings.xml
+system_ext/etc/permissions/com.android.storagemanager.xml
+system_ext/etc/permissions/com.android.systemui.xml
+system_ext/etc/permissions/privapp-permissions-fork-system_ext.xml
+system_ext/etc/permissions/privapp_whitelist_com.android.wallpaper.xml
+system_ext/etc/permissions/privapp_whitelist_org.lineageos.setupwizard.xml
+system_ext/lib/vendor.lineage.power@1.0.so
+system_ext/lib/vendor.mediatek.hardware.videotelephony@1.0.so
+system_ext/lib64/vendor.lineage.power@1.0.so
+system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
+-system_ext/priv-app/CarrierConfig/CarrierConfig.apk
+-system_ext/priv-app/EmergencyInfo/EmergencyInfo.apk
+-system_ext/priv-app/Launcher3QuickStep/Launcher3QuickStep.apk
+-system_ext/priv-app/LineageSetupWizard/LineageSetupWizard.apk
+-system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk
+-system_ext/priv-app/Settings/Settings.apk.aa
+-system_ext/priv-app/Settings/Settings.apk.ab
+-system_ext/priv-app/SimpleDeviceConfig/SimpleDeviceConfig.apk
+-system_ext/priv-app/StorageManager/StorageManager.apk
+-system_ext/priv-app/SystemUI/SystemUI.apk
+-system_ext/priv-app/ThemePicker/ThemePicker.apk
+-system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk
